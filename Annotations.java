@@ -21,6 +21,11 @@ public class RestfulWebServicesApplication {
 if I add this code in application.properties then I can see all auto configurations 
 logging.level.org.springframework = debug
 
+// this code show auto configuration is not happening:
+   UserDetailsServiceAutoConfiguration:
+      Did not match:
+         - @ConditionalOnClass did not find required
+
 
 
 SpringApplication.run -> runs Spring context which is a Application.class 
