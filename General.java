@@ -35,3 +35,23 @@ spring-boot-starter-web is a parent of all starter,
     spring-boot-starter-jdbc
     spring-boot-starter-hateoas
     spring-boot-starter-security and more 
+
+
+Spring Boot provides wide veriaty of starter, let's see some of them: 
+spring-boot-starter-web-service is good for SOAP Web services 
+spring-boot-starter-web is good for Web&RESTful applications 
+spring-boot-starter-test is good for Unit and Integration Testing 
+spring-boot-starter-jdbc Traditional JDBC 
+spring-boot-starter-hateos - Adding HATEOAS features to your services 
+spring-boot-starter-security Authentication and Authorization using Spring Security 
+spring-boot-starter-data-jpa Srping Data JPA with Hibernate 
+spring-boot-starter-cach Enabling Spring Frameworks caching support 
+spring-boot-starter-data-rest Expose simple REST Services using Spring Data REST 
+spring-boot-starter-tomcat ( we can also use it ) 
+                                                                                    
+                                                                                    
+                                                                                    
+
+
+
+
