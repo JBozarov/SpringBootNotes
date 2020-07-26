@@ -29,3 +29,9 @@ Spring Boot and Spring MVC exist for different purposes. The primary comparison 
 
 Spring Boot Starter Web is good for web and REST APIs 
 
+spring-boot-starter-web is a parent of all starter, 
+    spring-boot-starter-test
+    spring-boot-starter-login
+    spring-boot-starter-jdbc
+    spring-boot-starter-hateoas
+    spring-boot-starter-security and more 
